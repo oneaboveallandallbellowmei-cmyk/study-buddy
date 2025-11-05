@@ -1,0 +1,5 @@
+{
+  "name": "BBA Personalized Learning Hub",
+  "description": "An adaptive learning application for BBA students that tailors course content to individual learning styles, identified through a quick quiz. It provides personalized notes and study materials based on the official syllabus.",
+  "requestFramePermissions": []
+}
